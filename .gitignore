@@ -1,0 +1,5 @@
+UAS/sampleapp/db/*
+sampleapp/db/data/ibdata1
+sampleapp/db/data/ib_logfile0
+sampleapp/db/data/ib_logfile1
+sampleapp/db/data
